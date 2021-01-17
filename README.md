@@ -9,4 +9,3 @@ This project is a bootstrap, it defines dependencies (including main program) an
 - [Project website](https://kristuff.fr/projects/abuseipdbcli)
 - [Api documentation](https://kristuff.fr/projects/abuseipdbcli/doc)
 - [Config/Install guide](https://kristuff.fr/projects/abuseipdbcli/technical#configuration)
-- [Fail2ban integration](https://kristuff.fr/projects/abuseipdbcli/technical#fail2ban)
