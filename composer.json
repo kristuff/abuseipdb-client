@@ -1,0 +1,19 @@
+{
+    "name": "kristuff/abuseipdb-client",
+    "description": "Bootstrap for kristuff/abuseipdb-cli: A CLI tool to check/report IP addresses, download blacklists with AbuseIPDB API V2",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kristuff",
+            "homepage": "https://github.com/kristuff"
+        }
+    ],
+    "require": {
+        "php": ">=7.1",
+        "kristuff/abuseipdb-cli": ">=0.9.8-stable"
+    },
+    "config": {
+        "bin-dir": "bin"
+    }
+}
